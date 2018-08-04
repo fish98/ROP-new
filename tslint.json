@@ -15,6 +15,11 @@
     "ordered-imports": false,
     "object-literal-sort-keys": false,
     "no-consecutive-blank-lines": false,
-    "semicolon": false
+    "semicolon": false,
+    "member-access": false,
+    "no-console": false,
+    "trailing-comma": false,
+    "arrow-parens": false,
+    "no-trailing-whitespace": false
   }
 }
